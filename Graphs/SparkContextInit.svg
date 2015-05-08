@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 SparkContextInit.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.2141in" height="7.28084in"
+		viewBox="0 0 807.418 524.22" xml:space="preserve" color-interpolation-filters="sRGB" class="st32">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {marker-end:url(#mrkr4-6);stroke:#fec000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st2 {fill:#fec000;fill-opacity:1;stroke:#fec000;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st3 {visibility:visible}
+		.st4 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st5 {fill:#5b9bd5;fill-opacity:0.8;stroke:#c7c8c8;stroke-opacity:0;stroke-width:0.25}
+		.st6 {fill:#feffff;font-family:Calibri;font-size:0.833336em}
+		.st7 {font-size:1em}
+		.st8 {font-family:黑体;font-size:1em;font-style:italic}
+		.st9 {font-size:1em;font-style:italic}
+		.st10 {fill:#feffff;font-family:黑体;font-size:0.833336em;font-style:italic}
+		.st11 {font-family:Calibri;font-size:1em}
+		.st12 {fill:none;stroke:#4f87bb;stroke-width:0.75}
+		.st13 {fill:#4f87bb;font-family:Calibri;font-size:0.833336em}
+		.st14 {fill:none;stroke:#4f88bb;stroke-width:0.75}
+		.st15 {marker-end:url(#mrkr4-87);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st16 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.37313432835821}
+		.st17 {marker-end:url(#mrkr4-93);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st18 {font-family:黑体;font-size:1em}
+		.st19 {fill:#5b9bd5;fill-opacity:0.8;stroke:#c7c8c8;stroke-width:0.25}
+		.st20 {fill:#4f87bb;font-family:Calibri;font-size:1.00001em;font-style:italic}
+		.st21 {font-size:0.83333em;font-style:normal}
+		.st22 {font-family:黑体;font-size:0.83333em;font-style:normal}
+		.st23 {fill:#feffff;font-family:Calibri;font-size:0.833336em;font-style:italic}
+		.st24 {marker-end:url(#mrkr4-284);stroke:#fec000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st25 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st26 {fill:#dfa800;font-family:Calibri;font-size:0.666664em}
+		.st27 {fill:#dfa800;font-family:黑体;font-size:0.666664em}
+		.st28 {fill:#4f87bb;font-family:Calibri;font-size:0.666664em}
+		.st29 {marker-end:url(#mrkr4-385);stroke:#ed7d31;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st30 {fill:#ed7d31;fill-opacity:1;stroke:#ed7d31;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st31 {fill:#d06d29;font-family:Calibri;font-size:0.666664em}
+		.st32 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-6" class="st2" v:arrowType="4" v:arrowSize="2" v:setback="0" refX="-0" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<marker id="mrkr4-87" class="st16" v:arrowType="4" v:arrowSize="2" v:setback="5.12" refX="-5.12" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.68,-2.68) "/>
+		</marker>
+		<marker id="mrkr4-93" class="st16" v:arrowType="4" v:arrowSize="2" v:setback="5.36" refX="-5.36" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.68,-2.68) "/>
+		</marker>
+		<marker id="mrkr4-284" class="st2" v:arrowType="4" v:arrowSize="2" v:setback="6.68" refX="-6.68" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<marker id="mrkr4-385" class="st30" v:arrowType="4" v:arrowSize="2" v:setback="6.68" refX="-6.68" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_2">
+			<feGaussianBlur stdDeviation="2"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape143-1" v:mID="143" v:groupContext="shape" v:layerMember="0" transform="translate(344.166,-156.357)">
+			<title>动态连接线.143</title>
+			<path d="M0 524.22 C3.54 524.22 3.54 509.33 3.54 489.48 C3.54 466.81 3.54 437.66 3.54 421.77 C3.54 408.11 3.54 404.24
+						 9.66 401.68 C21.64 396.66 57.09 396.66 217.73 396.66" class="st1"/>
+		</g>
+		<g id="shape1-7" v:mID="1" v:groupContext="shape" transform="translate(181.174,-427.922)">
+			<title>矩形</title>
+			<desc>private val creationSite: CallSite = Utils.getCallSite() 记录哪一...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81.4961" cy="496.83" width="163" height="54.7795"/>
+			<g id="shadow1-8" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="469.441" width="162.992" height="54.7795" class="st4"/>
+			</g>
+			<rect x="0" y="469.441" width="162.992" height="54.7795" class="st5"/>
+			<text x="13.61" y="481.83" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>private val creationSite: CallSite = <tspan
+						x="46.59" dy="1.2em" class="st7">Utils</tspan>.getCallSite()<v:newlineChar/><tspan x="21.5" dy="1.2em"
+						class="st8" v:langID="2052">记录哪一行用户代码启动了</tspan><tspan x="54.45" dy="1.2em" class="st9" v:langID="2052">SparkContext</tspan></text>		</g>
+		<g id="shape2-16" v:mID="2" v:groupContext="shape" transform="translate(181.174,-387.706)">
+			<title>矩形.2</title>
+			<desc>判断是否允许创建多个SparkContext 验证SparkConf的配置</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81.4961" cy="506.504" width="163" height="35.4331"/>
+			<g id="shadow2-17" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="488.787" width="162.992" height="35.4331" class="st4"/>
+			</g>
+			<rect x="0" y="488.787" width="162.992" height="35.4331" class="st5"/>
+			<text x="4.45" y="503.18" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>判断是否允许创建多个<tspan
+						class="st11">SparkContext<v:newlineChar/></tspan><tspan x="35.83" dy="1.331em" class="st7">验证</tspan><tspan
+						class="st11">SparkConf</tspan>的配置</text>		</g>
+		<g id="shape4-25" v:mID="4" v:groupContext="shape" transform="translate(181.882,-359.359)">
+			<title>矩形.4</title>
+			<desc>创建Driver SparkEnv</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="80.7874" cy="514.405" width="161.58" height="19.6299"/>
+			<g id="shadow4-26" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="504.59" width="161.575" height="19.6299" class="st4"/>
+			</g>
+			<rect x="0" y="504.59" width="161.575" height="19.6299" class="st5"/>
+			<text x="38.76" y="517.73" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>创建<tspan
+						class="st11">Driver SparkEnv</tspan></text>		</g>
+		<g id="shape5-32" v:mID="5" v:groupContext="shape" transform="translate(375.772,-427.922)">
+			<title>矩形.5</title>
+			<desc>AkkaUtils.createActorSystem(actorSystemName, hostname, port, ...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.5738" cy="496.83" width="147.15" height="54.7795"/>
+			<g id="shadow5-33" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="469.441" width="147.148" height="54.7795" class="st4"/>
+			</g>
+			<rect x="0" y="469.441" width="147.148" height="54.7795" class="st5"/>
+			<text x="4.37" y="481.17" class="st6" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>AkkaUtils.createActorSystem(acto<tspan
+						x="9.97" dy="1.2em" class="st7">rSystemName</tspan>, hostname, port, <tspan x="26.49" dy="1.2em"
+						class="st7">conf</tspan>, securityManager)<v:newlineChar/><tspan x="23.66" dy="1.298em" class="st8"
+						v:langID="2052">创建</tspan><tspan class="st9" v:langID="2052">Driver Actor System</tspan></text>		</g>
+		<g id="shape6-42" v:mID="6" v:groupContext="shape" transform="translate(181.174,-19.2016)">
+			<title>矩形.6</title>
+			<desc>SparkContext</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="81.4961" cy="281.086" width="163" height="486.269"/>
+			<rect x="0" y="37.9516" width="162.992" height="486.269" class="st12"/>
+			<text x="54.23" y="50.95" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>SparkContext</text>		</g>
+		<g id="shape7-45" v:mID="7" v:groupContext="shape" transform="translate(375.772,-18.75)">
+			<title>矩形.7</title>
+			<desc>SparkEnv (Driver)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="73.5738" cy="280.485" width="147.15" height="487.47"/>
+			<rect x="0" y="36.75" width="147.148" height="487.47" class="st12"/>
+			<text x="38.29" y="49.75" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>SparkEnv (Driver)</text>		</g>
+		<g id="shape13-48" v:mID="13" v:groupContext="shape" transform="translate(375.772,-334.695)">
+			<title>矩形.13</title>
+			<desc>创建Serializer,Closure Serializer</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.5738" cy="514.405" width="147.15" height="19.6299"/>
+			<g id="shadow13-49" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="504.59" width="147.148" height="19.6299" class="st4"/>
+			</g>
+			<rect x="0" y="504.59" width="147.148" height="19.6299" class="st5"/>
+			<text x="9.35" y="517.73" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>创建<tspan class="st11">Serializer</tspan><tspan
+						class="st11">,</tspan><tspan class="st11">Closure Serializer</tspan></text>		</g>
+		<g id="shape14-57" v:mID="14" v:groupContext="shape" transform="translate(547.723,-437.595)">
+			<title>矩形.14</title>
+			<desc>ActorSystem (name=sparkDriver)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="66.7913" cy="506.504" width="133.59" height="35.4331"/>
+			<rect x="0" y="488.787" width="133.583" height="35.4331" class="st12"/>
+			<text x="41.06" y="501.79" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>ActorSystem <tspan
+						x="26.32" dy="1.2em" class="st7">(</tspan>name=<tspan class="st7" v:langID="1033">sparkDriver</tspan>)</text>		</g>
+		<g id="shape16-62" v:mID="16" v:groupContext="shape" transform="translate(375.772,-363.734)">
+			<title>矩形.16</title>
+			<desc>创建MapOutputTrackerMaster,MapOutputTrackerMasterActor</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.5738" cy="496.83" width="147.15" height="54.7795"/>
+			<g id="shadow16-63" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="469.441" width="147.148" height="54.7795" class="st4"/>
+			</g>
+			<rect x="0" y="469.441" width="147.148" height="54.7795" class="st5"/>
+			<text x="63.57" y="487.83" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>创建<tspan x="6.14"
+						dy="1.2em" class="st11" v:langID="1033">MapOutputTrackerMaster</tspan><tspan class="st11">,</tspan><tspan
+						class="st11" v:langID="1033">MapO</tspan><tspan x="21.84" dy="1.2em" class="st11" v:langID="1033">utputTrackerMaster</tspan><tspan
+						class="st11">Actor</tspan></text>		</g>
+		<g id="shape18-73" v:mID="18" v:groupContext="shape" transform="translate(547.723,-393.759)">
+			<title>矩形.18</title>
+			<desc>MapOutputTrackerMasterActor (name=MapOutputTracker)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="66.7913" cy="506.504" width="133.59" height="35.4331"/>
+			<rect x="0" y="488.787" width="133.583" height="35.4331" class="st14"/>
+			<text x="6.55" y="501.79" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>MapOutputTrackerMaster<tspan
+						class="st7" v:langID="2052">Act</tspan><tspan x="5.22" dy="1.2em" class="st7" v:langID="2052">or </tspan><tspan
+						class="st7" v:langID="2052">(</tspan><tspan class="st7" v:langID="2052">name</tspan><tspan class="st7"
+						v:langID="2052">=</tspan>MapOutputTracker<tspan class="st7" v:langID="2052">)</tspan></text>		</g>
+		<g id="shape24-82" v:mID="24" v:groupContext="shape" v:layerMember="0" transform="translate(343.457,-369.174)">
+			<title>动态连接线</title>
+			<path d="M0 524.22 C10.63 524.22 10.63 550.69 10.63 577.16 C10.63 600.27 10.63 623.38 24.42 629.4 L24.77 629.47"
+					class="st15"/>
+		</g>
+		<g id="shape26-88" v:mID="26" v:groupContext="shape" v:layerMember="0" transform="translate(522.92,-448.225)">
+			<title>动态连接线.26</title>
+			<path d="M0 517.13 C4.08 517.13 10.85 517.13 16.76 517.13" class="st17"/>
+		</g>
+		<g id="shape27-94" v:mID="27" v:groupContext="shape" v:layerMember="0" transform="translate(522.92,-391.124)">
+			<title>动态连接线.27</title>
+			<path d="M0 524.22 C8.27 524.22 10.11 511.91 17.18 506.44 L17.53 506.32" class="st15"/>
+		</g>
+		<g id="shape29-99" v:mID="29" v:groupContext="shape" transform="translate(375.772,-289.853)">
+			<title>矩形.29</title>
+			<desc>创建BlockTransferService(Netty或NIO)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.5738" cy="506.504" width="147.15" height="35.4331"/>
+			<g id="shadow29-100" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="488.787" width="147.148" height="35.4331" class="st4"/>
+			</g>
+			<rect x="0" y="488.787" width="147.148" height="35.4331" class="st5"/>
+			<text x="4" y="503.83" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>创建<tspan class="st11">BlockTransferService</tspan><tspan
+						class="st11">(</tspan><tspan class="st11">Netty</tspan>或<tspan x="64.3" dy="1.233em" class="st11">NIO</tspan><tspan
+						class="st11">)</tspan></text>		</g>
+		<g id="shape30-110" v:mID="30" v:groupContext="shape" transform="translate(376.076,-241.997)">
+			<title>矩形.30</title>
+			<desc>创建BlockManagerMaster和BlockManagerMasterActor</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.5738" cy="505.496" width="147.15" height="37.4475"/>
+			<g id="shadow30-111" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="486.773" width="147.148" height="37.4475" class="st4"/>
+			</g>
+			<rect x="0" y="486.773" width="147.148" height="37.4475" class="st5"/>
+			<text x="14.56" y="502.82" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>创建<tspan
+						class="st11" v:langID="1033">BlockManagerMaster</tspan>和<tspan x="18.63" dy="1.233em" class="st11"
+						v:langID="1033">BlockManagerMaster</tspan><tspan class="st11">Actor</tspan></text>		</g>
+		<g id="shape31-119" v:mID="31" v:groupContext="shape" transform="translate(733.89,-235.267)">
+			<title>矩形.31</title>
+			<desc>BlockManagerMasterActor (name=BlockManagerMaster)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="27.389" cy="485.948" width="54.78" height="76.5444"/>
+			<rect x="0" y="447.676" width="54.778" height="76.5444" class="st14"/>
+			<text x="4.81" y="460.68" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>BlockMana<tspan
+						x="6.27" dy="1.2em" class="st7">gerMaster</tspan><tspan x="16.33" dy="1.2em" class="st7" v:langID="2052">Actor </tspan><tspan
+						x="5.37" dy="1.2em" class="st7" v:langID="2052">(</tspan><tspan class="st7" v:langID="2052">name</tspan><tspan
+						class="st7" v:langID="2052">=</tspan>Blo<tspan x="4.73" dy="1.2em" class="st7">ckManager</tspan><tspan
+						x="11.34" dy="1.2em" class="st7">Master</tspan><tspan class="st7" v:langID="2052">)</tspan></text>		</g>
+		<g id="shape32-130" v:mID="32" v:groupContext="shape" v:layerMember="0" transform="translate(523.224,-260.721)">
+			<title>动态连接线.32</title>
+			<path d="M0 524.22 C9.5 524.22 10.51 505.67 30.66 501.75 L31.02 501.72" class="st15"/>
+		</g>
+		<g id="shape34-135" v:mID="34" v:groupContext="shape" transform="translate(375.772,-179.482)">
+			<title>矩形.34</title>
+			<desc>创建BlockManager,BroadCastManager和CacheManager</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.878" cy="496.83" width="147.76" height="54.7795"/>
+			<g id="shadow34-136" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="469.441" width="147.756" height="54.7795" class="st4"/>
+			</g>
+			<rect x="0" y="469.441" width="147.756" height="54.7795" class="st5"/>
+			<text x="63.88" y="487.17" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>创建<tspan x="5.29"
+						dy="1.2em" class="st11">BlockManager</tspan><tspan class="st11">,</tspan><tspan class="st11">BroadCastManage</tspan><tspan
+						x="36.28" dy="1.298em" class="st11">r</tspan>和<tspan class="st11">CacheManager</tspan></text>		</g>
+		<g id="shape35-146" v:mID="35" v:groupContext="shape" transform="translate(375.772,-124.119)">
+			<title>矩形.35</title>
+			<desc>创建HttpFileServer</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.878" cy="514.405" width="147.76" height="19.6299"/>
+			<g id="shadow35-147" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="504.59" width="147.756" height="19.6299" class="st4"/>
+			</g>
+			<rect x="0" y="504.59" width="147.756" height="19.6299" class="st5"/>
+			<text x="35.17" y="517.73" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>创建<tspan
+						class="st11">HttpFileServer</tspan></text>		</g>
+		<g id="shape36-153" v:mID="36" v:groupContext="shape" transform="translate(547.723,-109.91)">
+			<title>矩形.36</title>
+			<desc>HttpFileServer 提供HTTP服务让executors获取额外的jar和文件</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="66.7913" cy="500.196" width="133.59" height="48.0491"/>
+			<rect x="0" y="476.171" width="133.583" height="48.0491" class="st14"/>
+			<text x="37.6" y="489.17" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>HttpFileServer<v:newlineChar/><tspan
+						x="6.33" dy="1.298em" class="st18">提供</tspan>HTTP<tspan class="st18">服务让</tspan>executors<tspan
+						class="st18">获</tspan><tspan x="26.46" dy="1.331em" class="st18">取额外的</tspan>jar<tspan class="st18">和文件</tspan></text>		</g>
+		<g id="shape37-161" v:mID="37" v:groupContext="shape" v:layerMember="0" transform="translate(523.528,-126.848)">
+			<title>动态连接线.37</title>
+			<path d="M0 517.13 C3.94 517.13 10.43 517.13 16.15 517.13" class="st17"/>
+		</g>
+		<g id="shape38-166" v:mID="38" v:groupContext="shape" transform="translate(375.772,-33.8703)">
+			<title>矩形.38</title>
+			<desc>创建OutputCommitCoordinator和OutputCommitCoordinatorActor</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="73.878" cy="505.496" width="147.76" height="37.4475"/>
+			<g id="shadow38-167" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="486.773" width="147.756" height="37.4475" class="st4"/>
+			</g>
+			<rect x="0" y="486.773" width="147.756" height="37.4475" class="st19"/>
+			<text x="4.36" y="502.82" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>创建<tspan class="st11"
+						v:langID="1033">OutputCommitCoordinator</tspan>和<tspan x="8.43" dy="1.233em" class="st11" v:langID="1033">OutputCommitCoordinatorActor</tspan></text>		</g>
+		<g id="shape39-174" v:mID="39" v:groupContext="shape" transform="translate(547.723,-33.8703)">
+			<title>矩形.39</title>
+			<desc>OutputCommitCoordinatorActor (name=OutputCommitCoordinator)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="66.7913" cy="496.83" width="133.59" height="54.7795"/>
+			<rect x="0" y="469.441" width="133.583" height="54.7795" class="st14"/>
+			<text x="4.92" y="482.44" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>OutputCommitCoordinatorAct<tspan
+						x="62.41" dy="1.2em" class="st7">or</tspan><tspan class="st7" v:langID="2052"> </tspan><tspan x="4.54"
+						dy="1.2em" class="st7" v:langID="2052">(</tspan><tspan class="st7" v:langID="2052">name</tspan><tspan
+						class="st7" v:langID="2052">=</tspan>OutputCommitCoordin<tspan x="56.83" dy="1.2em" class="st7">ator</tspan><tspan
+						class="st7" v:langID="2052">)</tspan></text>		</g>
+		<g id="shape40-184" v:mID="40" v:groupContext="shape" v:layerMember="0" transform="translate(523.528,-49.8404)">
+			<title>动态连接线.40</title>
+			<path d="M0 521.47 C8.01 521.47 9.98 516.55 16.26 514.12 L16.62 514.06" class="st15"/>
+		</g>
+		<g id="shape46-189" v:mID="46" v:groupContext="shape" transform="translate(181.174,-331.572)">
+			<title>矩形.46</title>
+			<desc>初始化Spark UI</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81.1417" cy="514.685" width="162.29" height="19.0705"/>
+			<g id="shadow46-190" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="505.15" width="162.283" height="19.0705" class="st4"/>
+			</g>
+			<rect x="0" y="505.15" width="162.283" height="19.0705" class="st5"/>
+			<text x="49.15" y="518.01" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>初始化<tspan
+						class="st11">Spark UI</tspan></text>		</g>
+		<g id="shape47-196" v:mID="47" v:groupContext="shape" transform="translate(180.819,-300.615)">
+			<title>矩形.47</title>
+			<desc>添加spark.jars和spark.files到HttpFileServer</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81.4961" cy="513.1" width="163" height="22.2408"/>
+			<g id="shadow47-197" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="501.979" width="162.992" height="22.2408" class="st4"/>
+			</g>
+			<rect x="0" y="501.979" width="162.992" height="22.2408" class="st5"/>
+			<text x="21.24" y="510.43" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>添加<tspan
+						class="st11">spark</tspan><tspan class="st11">.</tspan><tspan class="st11">jars</tspan>和<tspan class="st11">spark</tspan><tspan
+						class="st11">.</tspan><tspan class="st11">files</tspan>到<tspan x="52.79" dy="1.233em" class="st11">HttpFileServer</tspan></text>		</g>
+		<g id="shape49-209" v:mID="49" v:groupContext="shape" transform="translate(181.174,-264.671)">
+			<title>矩形.49</title>
+			<desc>创建SchedulerBackend, TaskScheduler</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81.4961" cy="510.047" width="163" height="28.3465"/>
+			<g id="shadow49-210" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="495.874" width="162.992" height="28.3465" class="st4"/>
+			</g>
+			<rect x="0" y="495.874" width="162.992" height="28.3465" class="st5"/>
+			<text x="33.39" y="507.38" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>创建<tspan
+						class="st11" v:langID="1033">SchedulerBackend</tspan><tspan class="st11" v:langID="1033">, </tspan><tspan
+						x="52.58" dy="1.233em" class="st11" v:langID="1033">TaskScheduler</tspan></text>		</g>
+		<g id="shape53-218" v:mID="53" v:groupContext="shape" transform="translate(85.2209,-264.671)">
+			<title>矩形.53</title>
+			<desc>YarnScheduler</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="35.4331" cy="514.405" width="70.87" height="19.6299"/>
+			<rect x="0" y="504.59" width="70.8661" height="19.6299" class="st14"/>
+			<text x="6.07" y="517.59" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>YarnScheduler</text>		</g>
+		<g id="shape54-221" v:mID="54" v:groupContext="shape" transform="translate(56.8744,-331.572)">
+			<title>矩形.54</title>
+			<desc>YarnSchdulerBackend</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="49.6063" cy="514.685" width="99.22" height="19.0705"/>
+			<rect x="0" y="505.15" width="99.2126" height="19.0705" class="st14"/>
+			<text x="5.49" y="518.15" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>YarnSchdulerBackend</text>		</g>
+		<g id="shape55-224" v:mID="55" v:groupContext="shape" v:layerMember="0" transform="translate(181.174,-283.751)">
+			<title>动态连接线.55</title>
+			<path d="M0 529.13 C-8.17 529.13 -10.06 531.7 -17.07 532.89 L-17.43 532.92" class="st15"/>
+		</g>
+		<g id="shape56-229" v:mID="56" v:groupContext="shape" v:layerMember="0" transform="translate(181.174,-278.844)">
+			<title>动态连接线.56</title>
+			<path d="M0 524.22 C-10.63 524.22 -10.63 508.75 -10.63 493.27 C-10.63 481.14 -10.63 469.01 -17.35 464.16 L-17.7 464.06"
+					class="st15"/>
+		</g>
+		<g id="shape57-234" v:mID="57" v:groupContext="shape" transform="translate(181.174,-240.835)">
+			<title>矩形.57</title>
+			<desc>创建HeartbeatReceiver</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81.4961" cy="516.053" width="163" height="16.3346"/>
+			<g id="shadow57-235" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="507.886" width="162.992" height="16.3346" class="st4"/>
+			</g>
+			<rect x="0" y="507.886" width="162.992" height="16.3346" class="st5"/>
+			<text x="33.78" y="519.38" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>创建<tspan
+						class="st11" v:langID="1033">HeartbeatReceiver</tspan></text>		</g>
+		<g id="shape58-241" v:mID="58" v:groupContext="shape" transform="translate(21.7544,-159.9)">
+			<title>矩形.58</title>
+			<desc>HeartbeatReceiver (name=HeartbeatReceiver) 接受executors的heartb...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="66.7913" cy="500.196" width="133.59" height="48.0491"/>
+			<rect x="0" y="476.171" width="133.583" height="48.0491" class="st14"/>
+			<text x="21.53" y="490.97" class="st20" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>HeartbeatReceiver<v:newlineChar/><tspan
+						x="11.72" dy="1.26em" class="st21" v:langID="2052">(</tspan><tspan class="st21" v:langID="2052">name</tspan><tspan
+						class="st21" v:langID="2052">=</tspan><tspan class="st21">HeartbeatReceiver</tspan><tspan class="st21"
+						v:langID="2052">)<v:newlineChar/></tspan><tspan x="11.79" dy="1.298em" class="st22" v:langID="2052">接受</tspan><tspan
+						class="st21" v:langID="2052">executors</tspan><tspan class="st22" v:langID="2052">的</tspan><tspan
+						class="st21" v:langID="2052">heartbeat</tspan></text>		</g>
+		<g id="shape61-253" v:mID="61" v:groupContext="shape" v:layerMember="0" transform="translate(181.174,-249.003)">
+			<title>动态连接线.61</title>
+			<path d="M0 524.22 C-23.16 524.22 -61.19 524.22 -78.4 533.45 C-89.15 539.21 -91.78 548.58 -92.42 557.24 L-92.43 557.6"
+					class="st15"/>
+		</g>
+		<g id="shape63-258" v:mID="63" v:groupContext="shape" transform="translate(181.174,-207.28)">
+			<title>矩形.63</title>
+			<desc>创建DAGScheduler</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81.4961" cy="513.59" width="163" height="21.2598"/>
+			<g id="shadow63-259" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="502.96" width="162.992" height="21.2598" class="st4"/>
+			</g>
+			<rect x="0" y="502.96" width="162.992" height="21.2598" class="st5"/>
+			<text x="42.68" y="516.92" class="st10" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>创建<tspan
+						class="st11">DAGScheduler</tspan></text>		</g>
+		<g id="shape64-265" v:mID="64" v:groupContext="shape" transform="translate(56.8744,-117.381)">
+			<title>矩形.64</title>
+			<desc>DAGScheduler</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="49.6063" cy="513.59" width="99.22" height="21.2598"/>
+			<rect x="0" y="502.96" width="99.2126" height="21.2598" class="st14"/>
+			<text x="20.32" y="515.96" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>DAGScheduler</text>		</g>
+		<g id="shape65-268" v:mID="65" v:groupContext="shape" v:layerMember="0" transform="translate(181.174,-217.91)">
+			<title>动态连接线.65</title>
+			<path d="M0 524.22 C-17.72 524.22 -17.72 546.87 -17.72 569.52 C-17.72 584.62 -17.72 599.71 -20 607.89 L-20.23 608.17"
+					class="st15"/>
+		</g>
+		<g id="shape66-273" v:mID="66" v:groupContext="shape" transform="translate(181.174,-175.991)">
+			<title>矩形.66</title>
+			<desc>taskScheduler.start()</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81.4961" cy="513.59" width="163" height="21.2598"/>
+			<g id="shadow66-274" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="502.96" width="162.992" height="21.2598" class="st4"/>
+			</g>
+			<rect x="0" y="502.96" width="162.992" height="21.2598" class="st5"/>
+			<text x="39.47" y="516.59" class="st23" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>taskScheduler.start()</text>		</g>
+		<g id="shape67-279" v:mID="67" v:groupContext="shape" v:layerMember="0" transform="translate(181.174,-186.621)">
+			<title>动态连接线.67</title>
+			<path d="M0 524.22 C-7.09 524.22 -7.09 502.44 -7.09 480.67 C-7.09 461.81 -7.09 442.95 -18.19 437.75 L-18.54 437.68"
+					class="st24"/>
+		</g>
+		<g id="shape112-285" v:mID="112" v:groupContext="shape" v:layerMember="0" transform="translate(120.654,-284.301)">
+			<title>动态连接线.112</title>
+			<desc>start</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-10.9417" cy="501.839" width="40" height="17.6036"/>
+			<path d="M0 524.22 C-0 514.32 -12.3 513.64 -13.98 483.99 L-13.99 483.63" class="st24"/>
+			<rect v:rectContext="textBkgnd" x="-18.4964" y="497.039" width="15.1092" height="9.59985" class="st25"/>
+			<text x="-18.5" y="504.24" class="st26" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>start</text>		</g>
+		<g id="shape132-292" v:mID="132" v:groupContext="shape" transform="translate(22.5044,-383.129)">
+			<title>矩形.132</title>
+			<desc>DriverActor (name=CoarseGrainedScheduler)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="66.7913" cy="500.196" width="133.59" height="48.0491"/>
+			<rect x="0" y="476.171" width="133.583" height="48.0491" class="st14"/>
+			<text x="43.27" y="489.17" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>DriverActor <tspan
+						x="5.29" dy="1.2em" class="st7">(</tspan>name=<tspan class="st7" v:langID="1033">CoarseGrainedSchedul</tspan><tspan
+						x="61.04" dy="1.2em" class="st7" v:langID="1033">er</tspan>)</text>		</g>
+		<g id="shape136-298" v:mID="136" v:groupContext="shape" v:layerMember="0" transform="translate(56.8744,-341.107)">
+			<title>动态连接线.136</title>
+			<desc>启动ApplicationMaster</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="4.99016" cy="552.181" width="87.73" height="18.6536"/>
+			<path d="M0 524.22 C-7.33 524.22 -17.01 524.22 -22.42 538.72 C-28.7 555.5 -29.25 591.73 -29.3 616.89 L-29.3 617.25"
+					class="st24"/>
+			<rect v:rectContext="textBkgnd" x="-33.064" y="546.856" width="76.1083" height="10.6501" class="st25"/>
+			<text x="-33.06" y="554.84" class="st27" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>启动<tspan
+						class="st11">ApplicationMaster </tspan> </text>		</g>
+		<g id="shape137-306" v:mID="137" v:groupContext="shape" v:layerMember="0" transform="translate(106.481,-350.643)">
+			<title>动态连接线.137</title>
+			<desc>On start</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-11.2302" cy="509.44" width="40" height="17.6036"/>
+			<path d="M0 524.22 C-0 515.08 -12.71 513.8 -16.27 499.72 L-16.31 499.36" class="st15"/>
+			<rect v:rectContext="textBkgnd" x="-24.439" y="504.64" width="26.4177" height="9.59985" class="st25"/>
+			<text x="-24.44" y="511.84" class="st28" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>On start</text>		</g>
+		<g id="shape138-313" v:mID="138" v:groupContext="shape" transform="translate(561.896,-184.704)">
+			<title>矩形.138</title>
+			<desc>BlockManager</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="113.386" cy="425.008" width="226.78" height="198.425"/>
+			<rect x="0" y="325.795" width="226.772" height="198.425" class="st14"/>
+			<text x="84.22" y="338.8" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>BlockManager</text>		</g>
+		<g id="shape139-316" v:mID="139" v:groupContext="shape" transform="translate(655.085,-227.223)">
+			<title>矩形.139</title>
+			<desc>BlockManagerMaster</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="66.7913" cy="471.296" width="133.59" height="105.848"/>
+			<rect x="0" y="418.373" width="133.583" height="105.848" class="st14"/>
+			<text x="23.09" y="431.37" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>BlockManagerMaster</text>		</g>
+		<g id="shape141-319" v:mID="141" v:groupContext="shape" transform="translate(655.085,-191.417)">
+			<title>矩形.141</title>
+			<desc>BlockManagerSlaveActor (name=BlockManagerActorXX)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="66.7913" cy="510.047" width="133.59" height="28.3465"/>
+			<rect x="0" y="495.874" width="133.583" height="28.3465" class="st14"/>
+			<text x="15.98" y="508.87" class="st13" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>BlockManagerSlaveActor<v:newlineChar/><tspan
+						x="4.34" dy="1.2em" class="st7" v:langID="2052">(</tspan><tspan class="st7" v:langID="2052">name</tspan><tspan
+						class="st7" v:langID="2052">=</tspan>BlockManagerActor<tspan class="st7" v:langID="2052">XX</tspan><tspan
+						class="st7" v:langID="2052">)</tspan></text>		</g>
+		<g id="shape142-327" v:mID="142" v:groupContext="shape" transform="translate(181.174,-145.727)">
+			<title>矩形.142</title>
+			<desc>env.blockManager.initialize(…)</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81.4961" cy="513.59" width="163" height="21.2598"/>
+			<g id="shadow142-328" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="502.96" width="162.992" height="21.2598" class="st4"/>
+			</g>
+			<rect x="0" y="502.96" width="162.992" height="21.2598" class="st5"/>
+			<text x="17.54" y="516.92" class="st23" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>env.blockManager.initialize(<tspan
+						class="st18">…</tspan>)</text>		</g>
+		<g id="shape144-334" v:mID="144" v:groupContext="shape" transform="translate(655.085,-340.609)">
+			<title>矩形.144</title>
+			<desc>BlockTransferService</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="66.7913" cy="514.898" width="133.59" height="18.6449"/>
+			<rect x="0" y="505.575" width="133.583" height="18.6449" class="st14"/>
+			<text x="24.45" y="518.58" class="st13" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>BlockTransferService</text>		</g>
+		<g id="shape145-337" v:mID="145" v:groupContext="shape" v:layerMember="0" transform="translate(561.896,-283.916)">
+			<title>动态连接线.145</title>
+			<desc>init</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="18.8046" cy="465.598" width="40" height="17.6036"/>
+			<path d="M0 524.22 C-7.09 524.22 -7.09 512.47 -7.09 500.71 C-7.09 479.46 -7.09 458.2 93.19 458.2" class="st1"/>
+			<rect v:rectContext="textBkgnd" x="13.5274" y="460.799" width="10.5543" height="9.59985" class="st25"/>
+			<text x="13.53" y="468" class="st26" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>init</text>		</g>
+		<g id="shape146-344" v:mID="146" v:groupContext="shape" v:layerMember="0" transform="translate(561.896,-289.118)">
+			<title>动态连接线.146</title>
+			<desc>registerBlockManager</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="44.4346" cy="522.787" width="81.43" height="17.6036"/>
+			<path d="M0 529.42 C-7.09 529.42 -7.09 530.56 -2.54 531.35 C7.51 533.1 39.78 533.19 86.15 533.19 L86.51 533.19"
+					class="st24"/>
+			<rect v:rectContext="textBkgnd" x="8.62658" y="517.987" width="71.6163" height="9.59985" class="st25"/>
+			<text x="8.63" y="525.19" class="st26" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>registerBlockManager</text>		</g>
+		<g id="shape148-351" v:mID="148" v:groupContext="shape" v:layerMember="0" transform="translate(655.085,-283.93)">
+			<title>动态连接线.148</title>
+			<desc>tell registerBlockManager</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="30.6157" cy="544.528" width="93.57" height="17.6036"/>
+			<path d="M0 528 C-7.09 528 -7.09 529.97 -3.29 531.35 C5.19 534.43 32.57 534.6 71.76 534.61 L72.12 534.61" class="st24"/>
+			<rect v:rectContext="textBkgnd" x="-11.2624" y="539.728" width="83.7565" height="9.59985" class="st25"/>
+			<text x="-11.26" y="546.93" class="st26" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>tell <tspan
+						class="st7" v:langID="1033">registerBlockManager</tspan></text>		</g>
+		<g id="shape150-359" v:mID="150" v:groupContext="shape" transform="translate(181.174,-65.1969)">
+			<title>矩形.150</title>
+			<desc>setupAndStartListenerBus() 注册spark.extraListeners中指定的监听器并启动监听...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81.4961" cy="487.498" width="163" height="73.4437"/>
+			<g id="shadow150-360" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="450.776" width="162.992" height="73.4437" class="st4"/>
+			</g>
+			<rect x="0" y="450.776" width="162.992" height="73.4437" class="st5"/>
+			<text x="26.22" y="465.19" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>setupAndStartListenerBus<tspan
+						class="st7" v:langID="2052">()<v:newlineChar/></tspan><tspan x="5.77" dy="1.298em" class="st18"
+						v:langID="2052">注册</tspan><tspan class="st7" v:langID="2052">spark</tspan><tspan class="st7"
+						v:langID="2052">.</tspan><tspan class="st7" v:langID="2052">extraListeners</tspan><tspan class="st18"
+						v:langID="2052">中指定的监</tspan><tspan x="36.5" dy="1.331em" class="st18" v:langID="2052">听器并启动监听总线<v:newlineChar/></tspan><tspan
+						x="28.9" dy="1.233em" class="st7">postEnvironmentUpdate</tspan>() <v:newlineChar/><tspan x="36.87"
+						dy="1.2em" class="st7">postApplicationStart</tspan>()</text>		</g>
+		<g id="shape151-374" v:mID="151" v:groupContext="shape" transform="translate(181.174,-35.4331)">
+			<title>矩形.151</title>
+			<desc>taskScheduler.postStartHook()</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="81.4961" cy="513.59" width="163" height="21.2598"/>
+			<g id="shadow151-375" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st3">
+				<rect x="0" y="502.96" width="162.992" height="21.2598" class="st4"/>
+			</g>
+			<rect x="0" y="502.96" width="162.992" height="21.2598" class="st5"/>
+			<text x="19.87" y="516.59" class="st23" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>taskScheduler.postStartHook()</text>		</g>
+		<g id="shape153-380" v:mID="153" v:groupContext="shape" v:layerMember="0" transform="translate(181.174,-46.063)">
+			<title>动态连接线.153</title>
+			<path d="M0 524.22 C-11.66 524.22 -11.66 472.88 -11.66 427.32 C-11.66 380.6 -11.66 339.95 -31.15 324.98 C-39.65 318.45
+						 -51.84 316.8 -57.46 311.95 L-57.62 311.63" class="st29"/>
+		</g>
+		<g id="shape156-386" v:mID="156" v:groupContext="shape" v:layerMember="0" transform="translate(120.654,-284.301)">
+			<title>动态连接线.156</title>
+			<desc>isReady</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="19.0941" cy="496.71" width="40" height="17.6036"/>
+			<path d="M0 524.22 C0 504.13 -0 494.25 3.5 489.23 C7.12 484.04 14.48 484.04 22.44 484.04 C29.78 484.04 37.63 484.04 40.64
+						 481.52 C42.52 479.96 42.52 477.42 42.52 473.42 C42.52 472.29 42.52 471.05 41.99 469.98 L41.65 469.85"
+					class="st29"/>
+			<rect v:rectContext="textBkgnd" x="6.62163" y="491.91" width="24.945" height="9.59985" class="st25"/>
+			<text x="6.62" y="499.11" class="st31" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>isReady</text>		</g>
+	</g>
+</svg>
